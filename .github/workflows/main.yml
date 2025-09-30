@@ -1,4 +1,4 @@
-name: /main.yml
+name: Build and Zip (Vite)
 
 on:
   push:
